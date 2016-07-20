@@ -17,6 +17,11 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
   3) And Wait...... 
   
   4) The Green Button for Withdraw Now
+  
+  
+ ![Screenshot 2]( https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/AuxPoWBots-patch-2/Screenshot_2.png)
+  
+  
 
 ## Disclaimer:
 
