@@ -3,8 +3,8 @@
 ## GhostBots Faucets Bitcoin
 
 
-![btcrobot logo](
-https://raw.githubusercontent.com/philsong/btcrobot/master/static/images/demo/hacking-bitcoin-with-go.png)
+![AuxPoWBots logo](
+https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514e96307ac6f076399/Screenshot_3.png)
 
   btcrobot is a Bitcoin, Litecoin and Altcoin trading bot written in golang,
   it features multiple trading methods using technical analysis.
