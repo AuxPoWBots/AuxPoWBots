@@ -19,7 +19,10 @@ https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514
   
  ![Screenshot 2]( https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/AuxPoWBots-patch-2/Screenshot_2.png)
   
-  
+ ## GhostBots Faucets - Withdraw Deposit
+ 
+ 
+ ![Screenshot 3] (https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/AuxPoWBots-patch-3/Screenshot_4.png)
 
 ## Disclaimer:
 
