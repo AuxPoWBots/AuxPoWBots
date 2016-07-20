@@ -1,8 +1,6 @@
 # AuxPoWBots
-============
+--------------------------------
 ## GhostBots Faucets Bitcoin
-
-
 ![AuxPoWBots logo](
 https://raw.githubusercontent.com/AuxPoWBots/AuxPoWBots/4860d9b39d04471955d8a514e96307ac6f076399/Screenshot_3.png)
 
